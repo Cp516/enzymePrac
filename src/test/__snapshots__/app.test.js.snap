@@ -1,0 +1,493 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render properly 1`] = `
+ShallowWrapper {
+  "length": 1,
+  Symbol(enzyme.__root__): [Circular],
+  Symbol(enzyme.__unrendered__): <App />,
+  Symbol(enzyme.__renderer__): Object {
+    "batchedUpdates": [Function],
+    "getNode": [Function],
+    "render": [Function],
+    "simulateEvent": [Function],
+    "unmount": [Function],
+  },
+  Symbol(enzyme.__node__): Object {
+    "instance": null,
+    "key": undefined,
+    "nodeType": "host",
+    "props": Object {
+      "children": <div
+        className="board"
+>
+        <Square
+                loc={0}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={1}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={2}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={3}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={4}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={5}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={6}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={7}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+        <Square
+                loc={8}
+                squareClickHandler={[Function]}
+                value="X"
+        />
+</div>,
+    },
+    "ref": null,
+    "rendered": Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": Array [
+          <Square
+            loc={0}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={1}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={2}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={3}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={4}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={5}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={6}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={7}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+          <Square
+            loc={8}
+            squareClickHandler={[Function]}
+            value="X"
+/>,
+        ],
+        "className": "board",
+      },
+      "ref": null,
+      "rendered": Array [
+        Object {
+          "instance": null,
+          "key": "0",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 0,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "1",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 1,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "2",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 2,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "3",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 3,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "4",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 4,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "5",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 5,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "6",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 6,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "7",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 7,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+        Object {
+          "instance": null,
+          "key": "8",
+          "nodeType": "function",
+          "props": Object {
+            "loc": 8,
+            "squareClickHandler": [Function],
+            "value": "X",
+          },
+          "ref": null,
+          "rendered": null,
+          "type": [Function],
+        },
+      ],
+      "type": "div",
+    },
+    "type": "div",
+  },
+  Symbol(enzyme.__nodes__): Array [
+    Object {
+      "instance": null,
+      "key": undefined,
+      "nodeType": "host",
+      "props": Object {
+        "children": <div
+          className="board"
+>
+          <Square
+                    loc={0}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={1}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={2}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={3}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={4}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={5}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={6}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={7}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+          <Square
+                    loc={8}
+                    squareClickHandler={[Function]}
+                    value="X"
+          />
+</div>,
+      },
+      "ref": null,
+      "rendered": Object {
+        "instance": null,
+        "key": undefined,
+        "nodeType": "host",
+        "props": Object {
+          "children": Array [
+            <Square
+              loc={0}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={1}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={2}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={3}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={4}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={5}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={6}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={7}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+            <Square
+              loc={8}
+              squareClickHandler={[Function]}
+              value="X"
+/>,
+          ],
+          "className": "board",
+        },
+        "ref": null,
+        "rendered": Array [
+          Object {
+            "instance": null,
+            "key": "0",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 0,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "1",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 1,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "2",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 2,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "3",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 3,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "4",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 4,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "5",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 5,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "6",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 6,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "7",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 7,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+          Object {
+            "instance": null,
+            "key": "8",
+            "nodeType": "function",
+            "props": Object {
+              "loc": 8,
+              "squareClickHandler": [Function],
+              "value": "X",
+            },
+            "ref": null,
+            "rendered": null,
+            "type": [Function],
+          },
+        ],
+        "type": "div",
+      },
+      "type": "div",
+    },
+  ],
+  Symbol(enzyme.__options__): Object {
+    "adapter": ReactSixteenAdapter {
+      "options": Object {
+        "enableComponentDidUpdateOnSetState": true,
+      },
+    },
+  },
+}
+`;
